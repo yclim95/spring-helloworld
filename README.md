@@ -1,5 +1,5 @@
-<<<<<<< HEAD
 # Spring Hello World
-=======
-# spring-helloworld
->>>>>>> a956b9d2dd2ae3fb76ffa3834f16f8efa64bf296
+1. Import all Spring Core dependency
+2. Create POJO class
+3. Create Main Class
+4. Create beans.xml
